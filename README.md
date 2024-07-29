@@ -1,2 +1,2 @@
 # Subscription-Page
-Created a Subscription Page using HTML and CSS
+This project demonstrates how to create a modern, responsive subscription page using only HTML and CSS. 
